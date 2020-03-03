@@ -3,13 +3,17 @@
   text-align: center;
 }
 
+body {
+  background-color: lightblue;
+}
+
 button {
   color: black;
   /*background-color: lightblue;*/
   font-size: 18px;
   border-radius: 5px;
   margin: 4px;
-  /*border: none;*/
+  border: none;
   text-align: center;
 }
 
