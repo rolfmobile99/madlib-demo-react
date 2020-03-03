@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  color: black;
+  /*background-color: lightblue;*/
+  font-size: 18px;
+  border-radius: 5px;
+  margin: 4px;
+  /*border: none;*/
+  text-align: center;
+}
+
+button:hover {
+  background-color: darkblue;
+  color: white;
+}
+
+.button:active {
+  box-shadow: 0px;
+}
+
+button:focus {
+  outline: none;
+}
